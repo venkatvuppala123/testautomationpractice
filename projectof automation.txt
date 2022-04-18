@@ -1,9 +1,0 @@
-public void test1()
-{
-system.out.println("hello");
-}
-
-public void test2()
-{
-system.out.println("hello");
-}
